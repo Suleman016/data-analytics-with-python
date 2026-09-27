@@ -1,3 +1,0 @@
-Pipeline run: complete
-Records processed: 9500
-Errors: 0
